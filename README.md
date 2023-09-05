@@ -15,9 +15,9 @@
 
 
 
-<h1 align="left"> Anwar Hossain a href="https://twitter.com/anwar_stat" target="blank"><img src="https://img.shields.io/twitter/follow/anwar_stat?logo=twitter&style=for-the-badge" alt="anwar_stat" /></a> </h1>
+<h1 align="left"> <bold>Anwar Hossain</bold>   <a href="https://twitter.com/anwar_stat" target="blank"><img src="https://img.shields.io/twitter/follow/anwar_stat?logo=twitter&style=for-the-badge" alt="anwar_stat" /></a> </h1>
 <p align="left"> Dhaka, Bangladesh </p>
-<h4 align="left"> Data Scientist  📊  Statistician 📊 Content Creator </h4>
+<h3 align="left"> Data Scientist  📊  Statistician 📊 Content Creator </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwarstat&label=Profile%20views&color=0e75b6&style=flat" alt="anwarstat" /> </p>
 <h2 align="left"> About Me: </h2>
