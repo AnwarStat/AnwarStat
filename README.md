@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/f750788a-9d55-4ce9-a4e6-5323b5b72461", alt="Banner", height="100px", width="1200px" /></p>
+<p align="left"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/f750788a-9d55-4ce9-a4e6-5323b5b72461", alt="Banner", height="60px", width="1200px" /></p>
 
 
 
@@ -25,6 +25,8 @@
 
 <p align="left"> <a href="https://twitter.com/anwar_stat" target="blank"><img src="https://img.shields.io/twitter/follow/anwar_stat?logo=twitter&style=for-the-badge" alt="anwar_stat" /></a> </p>
 
+
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftwitter.com%2Fanwar_stat%2F" height="20" width="50" />
 
 
 
@@ -51,8 +53,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p style="text-align: left; font-family: verdana; text-color: red; line-height: 2.6; ">
-
- ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftwitter.com%2Fanwar_stat%2F)
 
 - <a href="https://www.youtube.com/c/@ah.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ah.datascientist" height="15" width="15" />  https://youtube.com/@ah.datascinetist </a>
 
@@ -100,7 +100,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat"  height= "80px" width= "1200px" /></p>
 
 
 
