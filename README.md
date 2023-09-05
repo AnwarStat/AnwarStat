@@ -13,42 +13,39 @@
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anwarstat&label=Profile%20views&color=0e75b6&style=flat" alt="anwarstat" /> </p>
 
 
-<h1 align="left"> Anwar Hossain
-<h3 align="left"> Dhaka, Bangladesh <br> Data Scientist  📊  Statistician 📊 Content Creator </h3>
+<h1 align="left"> Anwar Hossain </h1>
+<p align="left"> Dhaka, Bangladesh </p><be> 
+ <h4 align="left"> Data Scientist  📊  Statistician 📊 Content Creator </h4>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='30' height='30'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='30' height='30'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='30' height='30'></a> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anwarstat&label=Profile%20views&color=0e75b6&style=flat" alt="anwarstat" /> </p>
 
 <p align="left"> <a href="https://twitter.com/anwar_stat" target="blank"><img src="https://img.shields.io/twitter/follow/anwar_stat?logo=twitter&style=for-the-badge" alt="anwar_stat" /></a> </p>
 
 
 
 
-- 🔭 I'm Anwar Hossain, hailing from Dhaka, Bangladesh. I proudly bear the title of a Data Scientist, backed by a solid educational foundation with both a BSc and MSc in Statistics.  
+- 🔭 I'm Anwar Hossain, hailing from Dhaka, Bangladesh. I proudly bear the title of a **Data Scientist**, backed by a solid educational foundation with both a BSc and MSc in Statistics.  
 
-- 🌱 My current venture involves thriving as a freelance Data Scientist, where I passionately delve into the world of data.  
+- 🌱 My current venture involves thriving as a **freelance Data Scientist**, where I passionately delve into the world of data.  
 
-- 👯 Beyond my professional commitments, I create engaging content about Data Science, Machine Learning, Artificial Intelligence, and Programming, which you can find on platforms like YouTube, Facebook, and other media outlets. 
+- 👯 Beyond my professional commitments, I create engaging content about **Data Science, Machine Learning, Artificial Intelligence, and Statistical Programming**, which you can find on platforms like YouTube, Facebook, and other media outlets. 
 
-- 👨‍⚕️ What truly drives me is my profound research interest in public health. I aspire to utilize Data Science and Machine Learning algorithms in public health research, aiming to craft cost-efficient strategies and promote data-driven decision-making processes. I firmly believe that the fusion of data and technology can revolutionize public health by providing insights that lead to meaningful change.  
+- 👨‍⚕️ What truly drives me is my profound **research interest in public health**. I aspire to utilize Data Science and Machine Learning algorithms in public health research, aiming to craft **cost-efficient strategies** and promote **data-driven decision-making** processes. I firmly believe that the fusion of data and technology can revolutionize public health by providing insights that lead to meaningful change.  
 
 - 👨‍🔬 My overarching goal is to collaborate with Data Science teams that share a vision of creating positive change in communities through innovative, data-powered solutions. I'm excited by the limitless potential of data and its transformative impact when used effectively.  
 
 - 🤝 Let's join forces and explore the boundless potential of Data Science together.
-- 🌐 All of my projects are available at [Afjk.carrd.co](Afjk.carrd.co)
+  
+- 🌐 All of my projects are available at [GitHub](https://github.com/Anwarstat)
+ 
+- 💬 Ask me about **Statistics, Data Analysis, R, stata, SPSS**
 
-- 📝 I regularly write articles on [Lingjj.com](Lingjj.com)
+- 📫 Mail me **anwar.stat.jnu@gmail.com**
 
-- 💬 Ask me about **R, stata, spss**
-
-- 📫 How to reach me **Mail.com**
-
-- 📄 Know about my experiences [Linkgh.cn](Linkgh.cn)
-
-
-### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -68,11 +65,17 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 - <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="15" height="15"/>  MongoDB </a> <br> 
+ 
 - <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="15" height="15"/>  MySQL </a> <br>  
+
 - <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="15" height="15"/>  Pandas </a> <br> 
- - <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>  Python </a> <br> 
+
+- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>  Python </a> <br> 
+
 - <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="15" height="15"/> </a>  R-Programming<br> 
+
 - <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="15" height="15" />  Tensorflow </a> </p>
 
 
@@ -82,20 +85,20 @@
 
 
 
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
 
 
-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat" /></p>
 
 
 
 
 
 
-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat" /></p>
 
 
 
