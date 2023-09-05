@@ -17,7 +17,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwarstat&label=Profile%20views&color=0e75b6&style=flat" alt="anwarstat" /> </p>
 
-<!stars>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
@@ -65,11 +64,35 @@
 
 
 <H3> Important Stats: </H3>
+<table>
+  <tbody>
+    <tr>
+      <td>
+        
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat", alt="Language"></p> <br>
+      </td>
+     </tr>
+     <tr>
+      <td>
+       <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat"></p><br> 
+      </td>
+    </tr>
+    <tr>
+      <td>
+      [![trophy](https://github-profile-trophy.vercel.app/?username=Anwarstat)](https://github.com/ryo-ma/github-profile-trophy)<br><br><br>
+  
+      </td>
+    </tr>
+  </tbody>
+</table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat", alt="Language"></p> <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat", alt="Language"></p> <be>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat"></p><be>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat"></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat"></p><be>
 
