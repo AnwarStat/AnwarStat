@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<img align="left" src="https://github.com/AnwarStat/AnwarStat/assets/58507309/f750788a-9d55-4ce9-a4e6-5323b5b72461", alt="Banner", height="200", width="1100" />
 
 
 
@@ -42,7 +42,7 @@
   
 - 🌐 All of my projects are available at [GitHub](https://github.com/Anwarstat)
  
-- 💬 Ask me about **Statistics, Data Analysis, R, stata, SPSS**
+- 💬 Ask me about **Statistics, Data Analysis, R, Stata, SPSS**
 
 - 📫 Mail me **anwar.stat.jnu@gmail.com**
 
