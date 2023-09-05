@@ -15,18 +15,14 @@
 
 
 
-<h1 align="left"> Anwar Hossain </h1>
+<h1 align="left"> Anwar Hossain a href="https://twitter.com/anwar_stat" target="blank"><img src="https://img.shields.io/twitter/follow/anwar_stat?logo=twitter&style=for-the-badge" alt="anwar_stat" /></a> </h1>
 <p align="left"> Dhaka, Bangladesh </p>
 <h4 align="left"> Data Scientist  📊  Statistician 📊 Content Creator </h4>
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='30' height='30'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='30' height='30'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='30' height='30'></a> 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anwarstat&label=Profile%20views&color=0e75b6&style=flat" alt="anwarstat" /> </p>
-
-<p align="left"> <a href="https://twitter.com/anwar_stat" target="blank"><img src="https://img.shields.io/twitter/follow/anwar_stat?logo=twitter&style=for-the-badge" alt="anwar_stat" /></a> </p>
-
-
+<h2 align="left"> About Me: </h2>
 <p style="text-align: left; font-family: verdana; text-color: red; line-height: 2.5; ">
+  
 - 🔭 I'm Anwar Hossain, hailing from Dhaka, Bangladesh. I proudly bear the title of a **Data Scientist**, backed by a solid educational foundation with both a BSc and MSc in Statistics.  
 
 - 🌱 My current venture involves thriving as a **freelance Data Scientist**, where I passionately delve into the world of data.  
@@ -45,10 +41,11 @@
 
 - 📫 Mail me **anwar.stat.jnu@gmail.com**
 </p>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p style="text-align: left; font-family: verdana; text-color: red; ">
 
 - <a href="https://www.youtube.com/c/@ah.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ah.datascientist" height="15" width="15"  />   @AH.DataScinetist </a>
@@ -63,9 +60,11 @@
 - <a href="https://www.kaggle.com/anwarstat" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="af.yec.ng" height="15" width="15"  />   AnwarStat </a> <br>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
-- <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="15" height="15"/>  MongoDB </a> <br> 
+<p align="left"> 
+  
+- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="15" height="15"/>  MongoDB </a> <br> 
  
 - <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="15" height="15"/>  MySQL </a> <br>  
 
@@ -79,7 +78,7 @@
 
 
  
-<h3> Profile Statistics: </h3>
+<h2> Profile Statistics: </h2>
 
 
 
@@ -98,7 +97,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat"  /></p>
-
 
 
 
