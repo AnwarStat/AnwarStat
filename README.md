@@ -46,7 +46,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p style="text-align: left; font-family: verdana; color :red; ">
+<p style="text-align: left; font-family: verdana; text-color: red; line-height: 1.6">
 <a href="https://twitter.com/anwar_stat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anwar_stat" height="20" width="20" /> https://twitter.com/anwar_stat </a> <br>
 <a href="https://linkedin.com/in/anwarstat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwarstat" height="15" width="15" /> https://linkedin.com/in/anwarstat </a> <br>
 <a href="https://kaggle.com/af.yec.ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="af.yec.ng" height="15" width="15" /> https://kaggle.com/af.yec.ng </a> <br>
