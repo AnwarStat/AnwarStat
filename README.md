@@ -16,8 +16,8 @@
 
 
 <h1 align="left"> Anwar Hossain </h1>
-<p align="left"> Dhaka, Bangladesh </p><br> 
- <h4 align="left"> Data Scientist  📊  Statistician 📊 Content Creator </h4>
+<p align="left"> Dhaka, Bangladesh </p>
+<h4 align="left"> Data Scientist  📊  Statistician 📊 Content Creator </h4>
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='30' height='30'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='30' height='30'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='30' height='30'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='30' height='30'></a> 
 
@@ -26,7 +26,7 @@
 <p align="left"> <a href="https://twitter.com/anwar_stat" target="blank"><img src="https://img.shields.io/twitter/follow/anwar_stat?logo=twitter&style=for-the-badge" alt="anwar_stat" /></a> </p>
 
 
-<p style="text-align: left; font-family: verdana; text-color: red; ">
+<p style="text-align: left; font-family: verdana; text-color: red; line-height: 2.5; ">
 - 🔭 I'm Anwar Hossain, hailing from Dhaka, Bangladesh. I proudly bear the title of a **Data Scientist**, backed by a solid educational foundation with both a BSc and MSc in Statistics.  
 
 - 🌱 My current venture involves thriving as a **freelance Data Scientist**, where I passionately delve into the world of data.  
@@ -53,7 +53,7 @@
 
 - <a href="https://www.youtube.com/c/@ah.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ah.datascientist" height="15" width="15"  />   @AH.DataScinetist </a>
 
-- <a href="https://fb.com/anwar.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwar.datascientist" height="15" width="15"  />   Anwar.DataCcientist </a> <br>
+- <a href="https://fb.com/anwar.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwar.datascientist" height="15" width="15"  />   Anwar.DataScientist </a> <br>
 
 - <a href="https://twitter.com/anwar_stat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anwar_stat" height="15" width="15"  />   @Anwar_Stat </a> <be>
 
