@@ -71,13 +71,13 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat"></p><br><hr>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat"></p><br><hr>
 
 
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat"></p><br> <hr>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat"></p><br> <hr>
 
 
 
