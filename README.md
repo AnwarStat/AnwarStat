@@ -46,13 +46,13 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p style="text-align: left; font-family: verdana; text-color: red; line-height: 1.6">
-<a href="https://twitter.com/anwar_stat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anwar_stat" height="20" width="20" /> https://twitter.com/anwar_stat </a> <br>
+<p style="text-align: left; font-family: verdana; text-color: red; line-height: 2.6; ">
+<a href="https://twitter.com/anwar_stat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anwar_stat" height="15" width="15" /> https://twitter.com/anwar_stat </a> <br>
 <a href="https://linkedin.com/in/anwarstat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwarstat" height="15" width="15" /> https://linkedin.com/in/anwarstat </a> <br>
 <a href="https://kaggle.com/af.yec.ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="af.yec.ng" height="15" width="15" /> https://kaggle.com/af.yec.ng </a> <br>
 <a href="https://fb.com/anwar.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwar.datascientist" height="15" width="15" /> https://fb.com/anwar.datascientist </a> <br>
 <a href="https://instagram.com/anfr.hfh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anfr.hfh" height="15" width="15" /> https://instagram.com/anfr.hfh </a> <br>
-<a href="https://www.youtube.com/c/@ah.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ah.datascientist" height="30" width="30" /> youtube.com/@ah.datascinetist </a>
+<a href="https://www.youtube.com/c/@ah.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ah.datascientist" height="15" width="15" /> https://youtube.com/@ah.datascinetist </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
