@@ -67,34 +67,49 @@
 <table>
   <thead>
     <tr>
-      <td>
+      <th>
         
-      </td>
+      </th>
     </tr>
     <tr>
-      <td>
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat", alt="Language"></p> <br>
-      </td>
+      <th>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat", alt="Language">
+      </th>
      </tr>
      <tr>
-      <td>
-       <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat"></p><br> 
-      </td>
+      <th>
+       <img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat"> 
+      </th>
     </tr>
     <tr>
-      <td>
-      [![trophy](https://github-profile-trophy.vercel.app/?username=Anwarstat)](https://github.com/ryo-ma/github-profile-trophy)<br><br><br>
+      <th>
+      [![trophy](https://github-profile-trophy.vercel.app/?username=Anwarstat)](https://github.com/ryo-ma/github-profile-trophy)
   
-      </td>
+      </th>
     </tr>
   </thead>
 </table>
+</html>
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat", alt="Language"></p> <br><br><br>
+
+
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat"></p><br>
 
+
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat"></p><br>
+
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anwarstat)](https://github.com/ryo-ma/github-profile-trophy)<br><br><br>
 </html>
