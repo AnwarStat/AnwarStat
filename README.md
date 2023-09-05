@@ -60,25 +60,24 @@
 
 
 
+<h3> Profile Statistics: </h3>
 
-
-<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat", alt="Language" /> </p>
-
-
-
-
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat", alt="Language" />
 
 
 
 
-
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat" /></p>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat" />
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anwarstat)](https://github.com/ryo-ma/github-profile-trophy)<br><br>>
+
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat" />
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anwarstat)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
