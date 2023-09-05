@@ -62,7 +62,7 @@
 
 <h3> Profile Statistics: </h3>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat", alt="Language" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat", alt="Language" />
 
 
 
