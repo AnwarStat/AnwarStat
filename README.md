@@ -54,8 +54,8 @@
 <a href="https://kaggle.com/af.yec.ng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="af.yec.ng" height="30" width="30" /></a>
 <a href="https://fb.com/anwar.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwar.datascientist" height="30" width="30" /></a>
 <a href="https://instagram.com/anfr.hfh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anfr.hfh" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/@ah.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ah.datascientist" height="30" width="30" /></a>
-<a href="https://discord.gg/Jfggnhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jfggnhh" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/@ah.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ah.datascientist" height="30" width="30" />youtube.com/@ah.datascinetist </a>
+<a href="https://discord.gg/Jfggnhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Jfggnhh" height="30" width="30" /> discord.com/anwar </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -65,24 +65,23 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat", alt="Language"></p> <br><br><hr>
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat", alt="Language"> </p>
+
+
+
+
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat"></p>
 
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat"></p><br><hr>
+<p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat"></p>
 
 
 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anwarstat)](https://github.com/ryo-ma/github-profile-trophy)<br><br>>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat"></p><br> <hr>
-
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anwarstat)](https://github.com/ryo-ma/github-profile-trophy)<br><br><br>
-</html>
 
 
