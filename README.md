@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/f750788a-9d55-4ce9-a4e6-5323b5b72461", alt="Banner", height="100", width="1200" /></p>
+<p align="left"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/f750788a-9d55-4ce9-a4e6-5323b5b72461", alt="Banner", height="100px", width="1200px" /></p>
 
 
 
@@ -51,6 +51,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p style="text-align: left; font-family: verdana; text-color: red; line-height: 2.6; ">
+
+ ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ftwitter.com%2Fanwar_stat%2F)
 
 - <a href="https://www.youtube.com/c/@ah.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ah.datascientist" height="15" width="15" />  https://youtube.com/@ah.datascinetist </a>
 
