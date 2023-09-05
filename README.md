@@ -15,11 +15,11 @@
 
 
 
-<h1 align="left"> <bold>Anwar Hossain</bold>   <a href="https://twitter.com/anwar_stat" target="blank"><img src="https://img.shields.io/twitter/follow/anwar_stat?logo=twitter&style=for-the-badge" alt="anwar_stat" /></a> </h1>
+<h1 align="left"> <bold>Anwar Hossain</bold>  <img src="https://komarev.com/ghpvc/?username=anwarstat&label=Profile%20views&color=0e75b6&style=flat" alt="anwarstat" />  </h1>
 <p align="left"> Dhaka, Bangladesh </p>
 <h3 align="left"> Data Scientist  📊  Statistician 📊 Content Creator </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anwarstat&label=Profile%20views&color=0e75b6&style=flat" alt="anwarstat" /> </p>
+<p align="left"> <a href="https://twitter.com/anwar_stat" target="blank"><img src="https://img.shields.io/twitter/follow/anwar_stat?logo=twitter&style=for-the-badge" alt="anwar_stat" /></a> </p>
 <h2 align="left"> About Me: </h2>
 <p style="text-align: left; font-family: verdana; text-color: red; line-height: 2.5; ">
   
