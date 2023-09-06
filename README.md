@@ -76,13 +76,12 @@
 - <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="15" height="15" />  Tensorflow </a> </p>
 
 
- 
-<h2> Profile Statistics: </h2>
 
 
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat" alt="top-lang" width='12000' height='200' /> </p>
+
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat" alt="top-lang" /> </p>
 
 
 
