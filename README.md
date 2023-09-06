@@ -82,7 +82,7 @@
 
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat" alt="top-lang" width='1200' height='200' /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat" alt="top-lang" width='12000' height='200' /> </p>
 
 
 
