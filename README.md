@@ -82,23 +82,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anwarstat&show_icons=true&locale=en" alt="anwarstat" /></p>
-
-
-
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anwarstat&" alt="anwarstat"  /></p>
-
-
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anwarstat" alt="top-lang" width='1200' height='200' /> </p>
 
 
 
