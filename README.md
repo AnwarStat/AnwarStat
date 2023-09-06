@@ -10,8 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/f750788a-9d55-4ce9-a4e6-5323b5b72461", alt="Banner", height="60px", width="1200px" /></p>
-
+<p align="left"> <img src="https://drive.google.com/file/d/1h_VLUPCPC-UYdfxPUyXfBJXgZeFQDx95/view?usp=drivesdk" alt="Banner" /> </p>
 
 
 
