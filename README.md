@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/64ef4998-2155-4db4-9407-56d1922b8b0e" alt="Banner" height='100' width='1200'/> </p>
+<p align="left"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/64ef4998-2155-4db4-9407-56d1922b8b0e" alt="Banner" height='150' width='1200'/> </p>
 
 
 
