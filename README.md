@@ -59,15 +59,15 @@
   
 - <a href="https://github.com/AnwarStat/Machine-Learning/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>  Python </a> <br> 
 
-- <a href="https://github.com/AnwarStat/Machine-Learning/" target="blank" rel="noreferrer"> <img src="https://raw.github.com/AnwarStat/AnwarStat/assets/58507309/cce42181-4681-4acb-b759-1dcb4b716551.svg" alt="r" width="15" height="15"/>  R-Programming </a> <br> 
+- <a href="https://github.com/AnwarStat/Machine-Learning/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267889011-cce42181-4681-4acb-b759-1dcb4b716551.png" alt="r" width="15" height="15"/>  R-Programming </a> <br> 
  
-- <a href="https://github.com/AnwarStat/Data-Science/" target="blank" rel="noreferrer"> <img src="https://raw.github.com/AnwarStat/AnwarStat/assets/58507309/3e2d5811-9949-4e57-8cbe-53cc64707fa3" alt="mysql" width="15" height="15"/>  MySQL </a> <br>  
+- <a href="https://github.com/AnwarStat/Data-Science/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267895285-3e2d5811-9949-4e57-8cbe-53cc64707fa3.png" alt="mysql" width="15" height="15"/>  MySQL </a> <br>  
 
-- <a href="https://github.com/AnwarStat/Data-Visualization/" target="blank" rel="noreferrer"> ![image](https://github.com/AnwarStat/AnwarStat/assets/58507309/4f02345b-f199-434b-b82d-21b91b03d320)  Power BI </a> <br>
+- <a href="https://github.com/AnwarStat/Data-Visualization/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267893105-2f6f0a33-1519-4b42-87ed-db7d0d9ed09e.png" alt= "powerbi" height="15" width="15"/>  Power BI </a> <br>
 
-- <a href="https://github.com/AnwarStat/Econometrics/" target="blank" rel="noreferrer"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/f14bc198-b424-4e20-80df-e2fa70bb4117" alt="stata" width="15" height="15"/>  Stata </a> <br> 
+- <a href="https://github.com/AnwarStat/Econometrics/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267893720-f14bc198-b424-4e20-80df-e2fa70bb4117.png" alt="stata" width="15" height="15"/>  Stata </a> <br> 
  
-- <a href="https://github.com/AnwarStat/Biostatistics/" target="blank" rel="noreferrer"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/99884b1a-3a03-4fac-bdce-98430d64e387.svg" alt="spss" width="15" height="15" />  SPSS </a>
+- <a href="https://github.com/AnwarStat/Biostatistics/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267894201-99884b1a-3a03-4fac-bdce-98430d64e387.png" alt="spss" width="15" height="15" />  SPSS </a>
 
 </p>
 
