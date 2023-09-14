@@ -41,32 +41,14 @@ Let's join forces and explore the boundless potential of Data Science together.
 <h2 align="left">Connect with me:</h2>
 <p style="text-align: left; font-family: verdana; text-color: red; ">
 
-- <a href="https://www.youtube.com/@ah.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ah.datascientist" height="15" width="15"  />   @AH.DataScinetist </a>  **|** 
-
-<a href="https://fb.com/anwar.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwar.datascientist" height="15" width="15"  />   Anwar.DataScientist </a>  **|**
-
-<a href="https://twitter.com/anwar_stat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anwar_stat" height="15" width="15"  />   @Anwar_Stat </a>   **|**
-
-<a href="https://instagram.com/anwar.stat.jnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anfr.hfh" height="15" width="15"  />   @Anwar.Stat.JnU </a>    **|**
-
-<a href="https://linkedin.com/in/anwarstat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwarstat" height="15" width="15"  />   In/AnwarStat </a> <br>
+- <a href="https://www.youtube.com/@ah.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ah.datascientist" height="15" width="15"  />   @AH.DataScinetist </a>  **|**    <a href="https://fb.com/anwar.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwar.datascientist" height="15" width="15"  />   Anwar.DataScientist </a>  **|**   <a href="https://twitter.com/anwar_stat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anwar_stat" height="15" width="15"  />   @Anwar_Stat </a>   **|**    <a href="https://instagram.com/anwar.stat.jnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anfr.hfh" height="15" width="15"  />   @Anwar.Stat.JnU </a>    **|**    <a href="https://linkedin.com/in/anwarstat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwarstat" height="15" width="15"  />   In/AnwarStat </a> <br>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
 
 <p align="left"> 
   
-- <a href="https://github.com/AnwarStat/Machine-Learning/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>  Python </a>  **|**
-
-<a href="https://github.com/AnwarStat/Machine-Learning/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267889011-cce42181-4681-4acb-b759-1dcb4b716551.png" alt="r" width="15" height="15"/>  R-Programming </a>   **|** 
- 
-<a href="https://github.com/AnwarStat/Data-Science/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267895285-3e2d5811-9949-4e57-8cbe-53cc64707fa3.png" alt="mysql" width="15" height="15"/>  MySQL </a>    **|** 
-
-<a href="https://github.com/AnwarStat/Data-Visualization/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267893105-2f6f0a33-1519-4b42-87ed-db7d0d9ed09e.png" alt= "powerbi" height="15" width="15"/>  Power BI </a>    **|**
-
-<a href="https://github.com/AnwarStat/Econometrics/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267893720-f14bc198-b424-4e20-80df-e2fa70bb4117.png" alt="stata" width="15" height="15"/>  Stata </a>     **|** 
- 
-<a href="https://github.com/AnwarStat/Biostatistics/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267894201-99884b1a-3a03-4fac-bdce-98430d64e387.png" alt="spss" width="15" height="15" />  SPSS </a>
+- <a href="https://github.com/AnwarStat/Machine-Learning/" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>  Python </a>  **|**    <a href="https://github.com/AnwarStat/Machine-Learning/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267889011-cce42181-4681-4acb-b759-1dcb4b716551.png" alt="r" width="15" height="15"/>  R-Programming </a>   **|**   <a href="https://github.com/AnwarStat/Data-Science/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267895285-3e2d5811-9949-4e57-8cbe-53cc64707fa3.png" alt="mysql" width="15" height="15"/>  MySQL </a>    **|**    <a href="https://github.com/AnwarStat/Data-Visualization/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267893105-2f6f0a33-1519-4b42-87ed-db7d0d9ed09e.png" alt= "powerbi" height="15" width="15"/>  Power BI </a>    **|**   <a href="https://github.com/AnwarStat/Econometrics/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267893720-f14bc198-b424-4e20-80df-e2fa70bb4117.png" alt="stata" width="15" height="15"/>  Stata </a>     **|**   <a href="https://github.com/AnwarStat/Biostatistics/" target="blank" rel="noreferrer"> <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/58507309/267894201-99884b1a-3a03-4fac-bdce-98430d64e387.png" alt="spss" width="15" height="15" />  SPSS </a>
 
 </p>
 
