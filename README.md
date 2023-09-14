@@ -22,17 +22,16 @@
 <h2 align="left"> About Me: </h2>
 <p style="text-align: left; font-family: verdana; text-color: red; line-height: 2.5; ">
   
-- 🔭 I'm Anwar Hossain, hailing from Dhaka, Bangladesh. I proudly bear the title of a **Data Scientist**, backed by a solid educational foundation with both a BSc and MSc in Statistics.  
+I'm Anwar Hossain, hailing from Dhaka, Bangladesh. I proudly bear the title of a **Data Scientist**, backed by a solid educational foundation with both a BSc and MSc in Statistics.  
 
-- 🌱 My current venture involves thriving as a **freelance Data Scientist**, where I passionately delve into the world of data.  
+- **Profession:** My current venture involves thriving as a freelance Data Scientist, where I passionately delve into the world of data.  
 
-- 👯 Beyond my professional commitments, I create engaging content about **Data Science, Machine Learning, Artificial Intelligence, and Statistical Programming**, which you can find on platforms like YouTube, Facebook, and other media outlets. 
+- **Content Creation:** Beyond my professional commitments, I create engaging content about Data Science, Machine Learning, Artificial Intelligence, and Statistical Programming, which you can find on platforms like YouTube, Facebook, and other media outlets. 
 
-- 👨‍⚕️ What truly drives me is my profound **research interest in public health**. I aspire to utilize Data Science and Machine Learning algorithms in public health research, aiming to craft **cost-efficient strategies** and promote **data-driven decision-making** processes. I firmly believe that the fusion of data and technology can revolutionize public health by providing insights that lead to meaningful change.  
+- **Research Interest:** What truly drives me is my profound research interest in public health. I aspire to utilize Data Science and Machine Learning algorithms in public health research, aiming to craft cost-efficient strategies and promote **data-driven decision-making processes. I firmly believe that the fusion of data and technology can revolutionize public health by providing insights that lead to meaningful change.
+- **Goals:** My overarching goal is to collaborate with Data Science teams that share a vision of creating positive change in communities through innovative, data-powered solutions. I'm excited by the limitless potential of data and its transformative impact when used effectively.  
 
-- 👨‍🔬 My overarching goal is to collaborate with Data Science teams that share a vision of creating positive change in communities through innovative, data-powered solutions. I'm excited by the limitless potential of data and its transformative impact when used effectively.  
-
-- 👬 Let's join forces and explore the boundless potential of Data Science together.
+Let's join forces and explore the boundless potential of Data Science together.
   
 </p>
 
