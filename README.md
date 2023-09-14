@@ -51,24 +51,25 @@
 - <a href="https://instagram.com/anwar.stat.jnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anfr.hfh" height="15" width="15"  />   @Anwar.Stat.JnU </a> <br>
 
 - <a href="https://linkedin.com/in/anwarstat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwarstat" height="15" width="15"  />   In/AnwarStat </a> <br>
-- <a href="https://www.kaggle.com/anwarstat" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="af.yec.ng" height="15" width="15"  />   AnwarStat </a> <br>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
 
 <p align="left"> 
   
-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="15" height="15"/>  MongoDB </a> <br> 
+- <a href="https://github.com/AnwarStat/Machine-Learning" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>  Python </a> <br> 
+
+- <a href="https://github.com/AnwarStat/Machine-Learning" target="_blank" rel="noreferrer"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/cce42181-4681-4acb-b759-1dcb4b716551" alt="R" width="15" height="15"/>  R-Programming </a> <be> 
  
-- <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="15" height="15"/>  MySQL </a> <br>  
+- <a href="https://github.com/AnwarStat/Data-Science" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="15" height="15"/>  MySQL </a> <br>  
 
-- <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="15" height="15"/>  Pandas </a> <br> 
+- <a href="https://github.com/AnwarStat/Data-Visualization" target="_blank" rel="noreferrer"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/2f6f0a33-1519-4b42-87ed-db7d0d9ed09e" alt="Power BI" width="15" height="15"/>  Power BI </a> <be>
 
-- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>  Python </a> <br> 
+- <a href="https://github.com/AnwarStat/Econometrics" target="_blank" rel="noreferrer"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/f14bc198-b424-4e20-80df-e2fa70bb4117" alt="Stata" width="15" height="15"/>  Stata </a> <br> 
+ 
+- <a href="https://github.com/AnwarStat/Biostatistics" target="_blank" rel="noreferrer"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/99884b1a-3a03-4fac-bdce-98430d64e387" alt="SPSS" width="15" height="15" />  SPSS </a>
 
-- <a href="https://www.facebook.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="15" height="15"/>  R-Programming </a> <br> 
-
-- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="15" height="15" />  Tensorflow </a> </p>
+</p>
 
 
 
