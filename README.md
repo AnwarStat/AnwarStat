@@ -59,7 +59,7 @@
   
 - <a href="https://github.com/AnwarStat/Machine-Learning" target="blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/>  Python </a> <br> 
 
-- <a href="https://github.com/AnwarStat/Machine-Learning" target=blank" rel="noreferrer"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/cce42181-4681-4acb-b759-1dcb4b716551" alt="R" width="15" height="15"/>  R-Programming </a> <br> 
+- <a href="https://github.com/AnwarStat/Machine-Learning" target="blank" rel="noreferrer"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/cce42181-4681-4acb-b759-1dcb4b716551" alt="r" width="15" height="15"/>  R-Programming </a> <br> 
  
 - <a href="https://github.com/AnwarStat/Data-Science" target="blank" rel="noreferrer"> <img src="https://github.com/AnwarStat/AnwarStat/assets/58507309/3e2d5811-9949-4e57-8cbe-53cc64707fa3" alt="mysql" width="15" height="15"/>  MySQL </a> <br>  
 
