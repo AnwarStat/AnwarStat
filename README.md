@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://twitter.com/anwar_stat" target="blank"><img src="https://img.shields.io/twitter/follow/anwar_stat?logo=twitter&style=for-the-badge" alt="anwar_stat" height="20" width="120" /></a> </p>
 <h2 align="left"> About Me: </h2>
-<h4 style="text-align: left; font-family: verdana; text-color: red; line-height: 2.5; ">
+<p style="text-align: left; font-family: verdana; color: red; line-height: 2.5; background-color:powderblue ; font-size:160% ;">
   
 I'm Anwar Hossain, hailing from Dhaka, Bangladesh. I proudly bear the title of a **Data Scientist**, backed by a solid educational foundation with both a BSc and MSc in Statistics.  
 
@@ -33,7 +33,7 @@ I'm Anwar Hossain, hailing from Dhaka, Bangladesh. I proudly bear the title of a
 
 Let's join forces and explore the boundless potential of Data Science together.
   
-</h4>
+</p>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
