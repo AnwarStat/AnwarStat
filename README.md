@@ -20,7 +20,7 @@
 
 <p align="left"> <a href="https://twitter.com/anwar_stat" target="blank"><img src="https://img.shields.io/twitter/follow/anwar_stat?logo=twitter&style=for-the-badge" alt="anwar_stat" height="20" width="120" /></a> </p>
 <h2 align="left"> About Me: </h2>
-<p style="text-align: left; font-family: verdana; text-color: red; line-height: 2.5; ">
+<h4 style="text-align: left; font-family: verdana; text-color: red; line-height: 2.5; ">
   
 I'm Anwar Hossain, hailing from Dhaka, Bangladesh. I proudly bear the title of a **Data Scientist**, backed by a solid educational foundation with both a BSc and MSc in Statistics.  
 
@@ -33,18 +33,18 @@ I'm Anwar Hossain, hailing from Dhaka, Bangladesh. I proudly bear the title of a
 
 Let's join forces and explore the boundless potential of Data Science together.
   
-</p>
+</h4>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h2 align="left">Connect with me:</h2>
+<h3 align="left">Connect with me:</h3>
 <p style="text-align: left; font-family: verdana; text-color: red; ">
 
 - <a href="https://www.youtube.com/@ah.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ah.datascientist" height="15" width="15"  />   @AH.DataScinetist </a>  **|**    <a href="https://fb.com/anwar.datascientist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anwar.datascientist" height="15" width="15"  />   Anwar.DataScientist </a>  **|**   <a href="https://twitter.com/anwar_stat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anwar_stat" height="15" width="15"  />   @Anwar_Stat </a>   **|**    <a href="https://instagram.com/anwar.stat.jnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anfr.hfh" height="15" width="15"  />   @Anwar.Stat.JnU </a>    **|**    <a href="https://linkedin.com/in/anwarstat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anwarstat" height="15" width="15"  />   In/AnwarStat </a> <br>
 </p>
 
-<h2 align="left">Languages and Tools:</h2>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
   
